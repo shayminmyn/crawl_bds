@@ -9,6 +9,7 @@ myssql
 
 need to craete table with all field in items.py
 
+4 Setting file to save log in settings.py
 3 Run
 
 scrapy crawl bds
