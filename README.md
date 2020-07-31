@@ -1,12 +1,14 @@
 # crawl_bds
 
-# Required
+1 Required:
 
 Scrapy
 myssql
 
-# Setting link of your sql server in pipeline.py
+2 Setting link of your sql server in pipelines.py:
 
-# Run
+need to craete table with all field in items.py
+
+3 Run
 
 scrapy crawl bds
