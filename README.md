@@ -1,7 +1,7 @@
 # crawl_bds
 
 1 Required:
-
+Python 3.7.4
 Scrapy
 myssql
 
